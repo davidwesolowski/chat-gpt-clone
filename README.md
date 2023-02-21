@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Application is deployead at https://chat-gpt-clone-sandy.vercel.app/.
+
+## Technologies used:
+- Next.js 13.
+- Next Auth.
+- Google authentication provider.
+- Firebase.
+- Vercel.
 
 ## Getting Started
 
