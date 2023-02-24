@@ -2,6 +2,7 @@ Application is deployead at https://chat-gpt-clone-sandy.vercel.app/.
 
 ## Technologies used:
 - Next.js 13.
+- Tailwind CSS.
 - Next Auth.
 - Google authentication provider.
 - Firebase.
